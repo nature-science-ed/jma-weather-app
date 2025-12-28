@@ -1,4 +1,4 @@
-**Live demo:** https://your-app-name.streamlit.app
+**Live demo:** https://jma-weather-app-zkmwpzm7xxauq3grcmcrpz.streamlit.app/
 # JMA Weather App
 
 A simple Streamlit app to download hourly weather data from the Japan Meteorological Agency (JMA) as Excel files.
